@@ -1,0 +1,2 @@
+sudo vi /etc/cron.d/sync_git_repos
+*/5 * * * * app cd /path/to/project.git && git fetch -q --all -p
