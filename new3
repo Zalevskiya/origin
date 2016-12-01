@@ -1,1 +1,0 @@
-sudo vi /etc/cron.d/sync_git_repos
